@@ -1,0 +1,24 @@
+.addcontact
+{
+    background-color: White;
+    color: Black;
+}
+.heading.sc-regular-size
+{
+    font-size: x-large
+}
+.smallbtn
+{
+    font-size: x-large !important;
+    
+    
+}
+.smallbtn .sc-button-inner
+{
+    min-width: 40px !important;
+}
+.middleview
+{
+    background-color: White;
+}
+
