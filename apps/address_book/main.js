@@ -13,7 +13,7 @@
 //
 AddressBook.main = function main() { 
     AddressBook.getPath('mainPage.mainPane').append();
-    var contacts = AddressBook.store.find(AddressBook.ContactQuery);
+    var contacts = AddressBook.store.find(AddressBook.Contact);
     AddressBook.contactsController.set('content', contacts);
 };
 
